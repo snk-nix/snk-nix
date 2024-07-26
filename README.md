@@ -18,6 +18,7 @@
 - **JavaScript (JS)**
 - **TypeScript (TS)**
 - **NodeJS**
+- **HTML/CSS**
 - **No-SQL Databases**
 - **Data Visualization**
 - **DevOps**
